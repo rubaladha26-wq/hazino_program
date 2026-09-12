@@ -1,0 +1,2 @@
+# hazino_program
+work
